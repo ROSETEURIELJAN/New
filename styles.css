@@ -1,0 +1,21 @@
+/* styles.css */
+
+/* Page-wide settings: font, background, and spacing */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Heading: dark gray and centered */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* Paragraph: lighter gray, readable size */
+p {
+    color: #666;
+    font-size: 16px;
+}
